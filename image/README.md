@@ -1,4 +1,4 @@
-<img src="images/blue-abstract-bg-lght.jpg" width="200">
+<img src="blue-abstract-bg-lght.jpg" width="200">
 
 
 About me
