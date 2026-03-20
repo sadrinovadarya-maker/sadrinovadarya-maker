@@ -15,6 +15,14 @@
 ---
 
 ### 🛠️ Мои навыки
+### 🧰 Инструменты и технологии
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Fiddler](https://img.shields.io/badge/Fiddler-2C8EBB?style=for-the-badge&logo=fiddler&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 **🐞 Работа с багами и документацией**
 - Составляю подробные **баг-репорты в Jira**
@@ -41,3 +49,8 @@
 
 Открыта для предложений о работе и стажировке.  
 С радостью выполню тестовое задание и покажу, что умею.
+
+### 📬 Связаться со мной
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DariaSierra)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sadrinova.darya@gmail.com)
