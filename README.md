@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="image/blue-abstract-bg-lght.jpg" width="800">
+  <img src="image/image/0a9e17faaf68f6a02513d813729b904b.jpg" width="800">
 </div>
 
 ## 👋 Обо мне
