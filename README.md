@@ -4,7 +4,7 @@
   <img src="image/0a9e17faaf68f6a02513d813729b904b.jpg" width="800">
 </div>
 
-## 👋 Обо мне
+
 
 ## 👋 Обо мне
 
